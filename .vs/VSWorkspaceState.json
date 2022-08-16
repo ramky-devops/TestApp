@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\property-card",
+    "\\src\\assets",
+    "\\src\\assets\\images"
+  ],
+  "SelectedNode": "\\src\\app\\property-card\\property-card.component.ts",
+  "PreviewInSolutionExplorer": false
+}
