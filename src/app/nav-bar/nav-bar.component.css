@@ -1,0 +1,9 @@
+li{
+    font-family:Arial;
+    font:bolder 18px Arial;
+}
+
+li>a>img{
+    margin-right:2px;
+    width : 25px;
+}
